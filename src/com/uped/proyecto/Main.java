@@ -3,6 +3,7 @@ package com.uped.proyecto;
 import com.uped.proyecto.modelo.DocenteInvestigador;
 import com.uped.proyecto.modelo.Gerente;
 
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("--- PRUEBAS GUÍA 7 (Herencia Multinivel) ---");
