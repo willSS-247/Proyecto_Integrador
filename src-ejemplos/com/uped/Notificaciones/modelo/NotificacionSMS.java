@@ -12,4 +12,3 @@ public class NotificacionSMS extends Notificacion {
         System.out.println("Enviando SMS al nuemro " + numeroTelefono + "Mensaje " + mensaje);
     }
 }
-Notificacion
