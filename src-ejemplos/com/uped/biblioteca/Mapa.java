@@ -1,0 +1,11 @@
+package com.uped.biblioteca;
+
+public class Mapa extends Material{
+    public Mapa(String titulo) {
+        super(titulo);
+    }
+    @Override
+    public int diasPrestamo(){
+        return 0;
+    }
+}
