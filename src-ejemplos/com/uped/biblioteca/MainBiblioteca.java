@@ -4,7 +4,7 @@ import com.uped.biblioteca.*;
 
 public class MainBiblioteca {
     public static void main(String[] args) {
-        Material[] fondo = {
+        Material[] fondo = {    
                 new Libro("Java Basico"),
                 new Revista("Byte"),
                 new EBook("POO Moderna"),
