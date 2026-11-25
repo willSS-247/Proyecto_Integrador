@@ -1,7 +1,5 @@
 package com.uped.biblioteca;
 
-import com.uped.biblioteca.*;
-
 public class MainBiblioteca {
     public static void main(String[] args) {
         Material[] fondo = {    
